@@ -1,0 +1,9 @@
+#room{
+    position: relative;
+    
+    left: 180px;
+    width: 85%;
+    top: 40px;
+    color: black;
+    background-color: whitesmoke;
+}

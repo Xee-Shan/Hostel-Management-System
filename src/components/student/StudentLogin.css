@@ -1,0 +1,24 @@
+.student{
+    
+    background-image: url(./sign.jpg);
+    background-size: cover;
+    height: 97vh;
+}
+.container{
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+.container label{
+    color: white;
+    font-size: 22px;
+}
+.student>.container input{
+    height: 6vh;
+    width: 35%;
+}
+.student>h1{
+    position: relative;
+    left: -90px;
+    top: -80px;
+}

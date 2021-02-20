@@ -1,0 +1,17 @@
+#sidebar{
+position: absolute;
+left: 0px;
+top: 25px;
+background-color: #2C223F;
+width: 8%;
+height: 90vh;
+}
+#sidebar li{
+    position: relative;
+    left: -25px;
+    top: 50px;
+    list-style: none;
+}
+.div{
+    background-color: #71606D;
+}

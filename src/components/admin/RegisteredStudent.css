@@ -1,0 +1,12 @@
+   
+#table{
+     position: relative;
+     left: 160px;
+     width: 85%;
+     top: 40px;
+     color: #000;
+     background-color: whitesmoke;
+}
+.theader{
+     background-color: #4682B4;
+}

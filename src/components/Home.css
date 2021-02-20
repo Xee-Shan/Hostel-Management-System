@@ -1,0 +1,25 @@
+header{
+    background: url(./Images/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header,h1{
+    text-align: center;
+    padding: 150px;
+    color:white;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#contactform{
+    margin-top: 50px;
+}
+
+#contactformbtn{
+    margin-left: 460px;
+}
